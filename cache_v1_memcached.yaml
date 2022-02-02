@@ -1,0 +1,6 @@
+apiVersion: cache.yansheng.com/v1
+kind: Memcached
+metadata:
+  name: memcached-sample
+spec:
+  Size: 3
